@@ -5,7 +5,7 @@ This project leverages **TensorFlow**, **Streamlit**, and **Keras** to build a m
 
 ---
 ## Folder Structure
--image_classification
+-**image_classification**
 ---
 -Fruits_Vegetables        Dataset directories (train, validation, test)
 ---
