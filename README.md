@@ -6,11 +6,17 @@ This project leverages **TensorFlow**, **Streamlit**, and **Keras** to build a m
 ---
 ## Folder Structure
 image_classification
+---
 Fruits_Vegetables        Dataset directories (train, validation, test)
+---
 app.py                   Streamlit web app script
+---
 model_train.py           Script for training the model
+---
 Image_classify.keras     Trained model file
-requirements.txt         Dependencies
+---
+req1uirements.txt         Dependencies
+---
 feedback_images          Stores user feedback images
 
 
